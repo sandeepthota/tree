@@ -1,0 +1,6 @@
+increase 2000 10000000
+reduce 2000 50
+inrange 1000 8000000
+next 1
+previous 5
+quit
